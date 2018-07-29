@@ -1,6 +1,7 @@
 /*!
- * clipboard.js v1.7.1
+ * Credit for clipboard.js v1.7.1 goes to Zenorocha
  * https://zenorocha.github.io/clipboard.js
+ * https://github.com/zenorocha
  *
  * Licensed MIT © Zeno Rocha
  */
